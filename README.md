@@ -6,7 +6,7 @@ I found interesting to develop a demo code about recipes software. You can creat
 So you can extend this code in anyway!!
 
 #How to install
-1)install apache + mysql php >= 5.2
+1)install apache + mysql php >= 5.2<br />
 2)create database recipe_demo (there is a .sql in root folder)
 3)define the URL in config folder example: localhost/morsum_demo_recipes
 
