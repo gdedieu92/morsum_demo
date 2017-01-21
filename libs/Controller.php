@@ -5,12 +5,10 @@
 class A_Controller {
 
     public $post = null;
-    public $get = null;
 
     function __construct() {
         $this->view = new View();
         $this->post = returnPOSTArray();
-        $this->get = returnGETArray();
     }
 
     public function loadModel($name) {

@@ -23,11 +23,6 @@ function returnPOSTArray() {
     return clearArray($post);
 }
 
-function returnGETArray() {
-    $get = filter_input_array(INPUT_GET);
-    return clearArray($get);
-}
-
 function clearArray($array) {
     $args = null;
     if (isset($array)) {
