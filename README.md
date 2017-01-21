@@ -2,7 +2,7 @@
 recipes demo fwk for morsum challenge
 
 #Overview
-I found interesting to develop a demo code about recipes software. You can create ingredients and then do the recipes using them and defining the unit of measurament and quantity (a tought to create a bigger application and bussiness idea).
+I found interesting to develop a web app about recipes using a custom MVC framework. You can create ingredients and then add them to recipes defining the unit of measurament and quantity (a tought to create a bigger application and bussiness idea).
 So you can extend this code in anyway!!
 
 #How to install
